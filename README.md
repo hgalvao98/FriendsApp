@@ -1,24 +1,7 @@
-# README
+# Friends App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This website is my first project learning Ruby and Ruby on Rails; I also used Bootstrap, which I find it to be a magnificent tool. This website is a functional CRUD website, which means it can Create, Read, Update, and Delete!
 
-Things you may want to cover:
+I plan on learning more about Ruby and Ruby on Rails in the future!
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+To see the website and its functions working, clone the repository and run "rails s".
